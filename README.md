@@ -57,7 +57,7 @@ This Shiny application is an advanced, user-friendly tool designed to estimate t
 
 ## Screenshots
 
-> Add images or screenshots here to illustrate the UI, data input sections, and output graphs.
+![image](https://github.com/user-attachments/assets/4709e091-8165-41b3-b1f9-32c3fde41a82)
 
 ---
 
